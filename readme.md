@@ -19,7 +19,7 @@
 git clone https://github.com/MarcusXavierr/twitter-clone.git
 ~~~
 
-## P.S.:Para usar o twitter-clone na sua máquina é preciso colocar as informações de login do seu banco de dados no arquivo App/Connection.php
+### P.S.:Para usar o twitter-clone na sua máquina é preciso colocar as informações de login do seu banco de dados no arquivo App/Connection.php
 
 
 ## E para iniciar é só usar este comando aqui
